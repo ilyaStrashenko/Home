@@ -1,0 +1,31 @@
+.info_body {
+}
+.info__container {
+   display: flex;
+   padding-top: 50px;
+}
+.info__left {
+   width: 50%;
+}
+.info__title {
+   color: gold;
+}
+.info__title__text {
+   color: gold;
+   font-size: 50px;
+   text-transform: uppercase;
+   margin-bottom: 10px;
+   color: gold;
+}
+.info__subtitle__text {
+   color: #fff;
+   font-size: 30px;
+}
+.info__right {
+   width: 50%;
+}
+.info__right__text {
+   color:#fff;
+   font-size: 19px;
+   letter-spacing: 2px;
+}
